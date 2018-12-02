@@ -1,2 +1,2 @@
 # leaflet
-exemple de webmap avec leaftlet
+Un exemple de webmap avec leaftlet
